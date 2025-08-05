@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wrsm-cloud
-- 👀 I’m interested in Networking and DevOps
+- 👀 I’m interested in Networking, Cloud Computing and DevOps
 - 🌱 I’m currently studying for Azure and Networking certs.
 
 <!---
